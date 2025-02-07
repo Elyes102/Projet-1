@@ -1,0 +1,4 @@
+﻿  monInterface.cpp
+C:\Users\elyes\OneDrive - USherbrooke\Documents\Universite\Session 2 GI\APP3 - Concepts avances en programmation orientee objets\Graphicus-03\monInterface.cpp(16,40): warning C4100: 'titre' : paramètre formel non référencé
+C:\Users\elyes\OneDrive - USherbrooke\Documents\Universite\Session 2 GI\APP3 - Concepts avances en programmation orientee objets\Graphicus-03\monInterface.cpp(511,1): warning C4715: 'MonInterface::ouvrirFichier' : les chemins de contrôle ne retournent pas tous une valeur
+  GraphicusGUI-03.vcxproj -> C:\Users\elyes\OneDrive - USherbrooke\Documents\Universite\Session 2 GI\APP3 - Concepts avances en programmation orientee objets\Graphicus-03\debug\GraphicusGUI-03.exe
